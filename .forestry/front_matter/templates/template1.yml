@@ -1,0 +1,83 @@
+---
+label: documents_template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- name: slug
+  type: text
+  config:
+    required: true
+    min: 3
+  label: slug
+  description: this will form the end of the website address (url) -- don't use any
+    spaces, use a dash instead
+- type: text
+  name: description
+  label: description
+- type: textarea
+  name: summary
+  label: summary
+- type: datetime
+  name: date
+  label: date
+  description: Date of last edit
+- type: text
+  name: translationKey
+  label: translationKey
+  description: The French and English page must share the same text here so users
+    can toggle back and forth
+- type: boolean
+  name: toc
+  label: table of contents
+pages:
+- content/english/documents/consumer_law/ART/debt-problems-a-credit-counsellor-might-help.md
+- content/english/documents/consumer_law/ART/offers-to-settle-and-costs.md
+- content/english/documents/consumer_law/ART/ontario-s-consumer-protection-act.md
+- content/english/documents/consumer_law/ART/protect-your-credit-rating.md
+- content/english/documents/consumer_law/BFTP/but-for-the-plan-a-bad-roofing-job.md
+- content/english/documents/consumer_law/BFTP/but-for-the-plan-bankruptcy-and-life-insurance-proceeds.md
+- content/english/documents/consumer_law/BFTP/but-for-the-plan-bankruptcy-and-tax-reassessment-refunds.md
+- content/english/documents/consumer_law/BFTP/but-for-the-plan-bankruptcy-changing-the-terms-of-a-conditional-discharge.md
+- content/english/documents/consumer_law/BFTP/but-for-the-plan-beware-of-salespersons-knocking-at-your-door-do-not-let-them-in.md
+- content/english/documents/consumer_law/BFTP/but-for-the-plan-canada-pension-disability-claim.md
+- content/english/documents/consumer_law/BFTP/but-for-the-plan-collection-agency-letters-don-t-take-them-at-face-value.md
+- content/english/documents/consumer_law/BFTP/but-for-the-plan-furnace-rental-agreements-beware.md
+- content/english/documents/consumer_law/BFTP/but-for-the-plan-joining-a-class-action.md
+- content/english/documents/consumer_law/BFTP/but-for-the-plan-life-insurance-claim.md
+- content/english/documents/consumer_law/BFTP/but-for-the-plan-life-insurance-company-s-initial-refusal-to-pay-successfully-challenged.md
+- content/english/documents/consumer_law/BFTP/but-for-the-plan-line-of-credit-life-insurance-unilateral-policy-changes.md
+- content/english/documents/consumer_law/BFTP/but-for-the-plan-lost-luggage.md
+- content/english/documents/consumer_law/BFTP/but-for-the-plan-lost-travellers-cheques.md
+- content/english/documents/consumer_law/BFTP/but-for-the-plan-mortgage-insurance-claim-pre-existing-illness-but-application-not-fraudulent-1.md
+- content/english/documents/consumer_law/BFTP/but-for-the-plan-renovation-issues-and-contractors-who-walk-away.md
+- content/english/documents/consumer_law/BFTP/but-for-the-plan-telephone-sales.md
+- content/english/documents/consumer_law/BFTP/but-for-the-plan-the-power-of-a-lawyer-s-letter.md
+- content/english/documents/consumer_law/BFTP/but-for-the-plan-the-rogue-financial-advisor.md
+- content/english/documents/consumer_law/BFTP/but-for-the-plan-timeshare-contract.md
+- content/english/documents/consumer_law/BFTP/but-for-the-plan-trailer-parks-in-the-united-states-sometimes-a-canadian-lawyer-can-help.md
+- content/english/documents/consumer_law/BFTP/but-for-the-plan-trust-your-lawyer-through-the-settlement-process.md
+- content/english/documents/consumer_law/BFTP/but-for-the-plan-usa-consumer-problem.md
+- content/english/documents/consumer_law/BFTP/the-insurance-contract-that-kept-on-ticking.md
+- content/english/documents/family_law/ART/a-short-common-law-relationship-can-change-pension-rights.md
+- content/english/documents/family_law/ART/child-support-guidelines.md
+- content/english/documents/family_law/ART/collaborative-family-law.md
+- content/english/documents/family_law/ART/limited-retainer-agreements.md
+- content/english/documents/family_law/ART/pension-division-the-new-reality.md
+- content/english/documents/family_law/ART/separating-from-your-spouse-matters-to-consider.md
+- content/english/documents/family_law/ART/spousal-support-and-early-retirement.md
+- content/english/documents/family_law/ART/tips-for-keeping-your-family-lawyer-s-fees-down.md
+- content/english/documents/family_law/BFTP/but-for-the-plan-child-support-for-dad.md
+- content/english/documents/family_law/BFTP/but-for-the-plan-child-support-for-older-children.md
+- content/english/documents/family_law/BFTP/but-for-the-plan-child-support-from-self-represented-litigant-to-believer-in-the-plan.md
+- content/english/documents/family_law/BFTP/but-for-the-plan-clearing-up-pension-and-bankruptcy-issues.md
+- content/english/documents/family_law/BFTP/but-for-the-plan-grandparent-access-rights.md
+- content/english/documents/family_law/BFTP/but-for-the-plan-matrimonial-swimming-pool.md
+- content/english/documents/family_law/BFTP/but-for-the-plan-separation-agreements-subsequent-events-may-affect-the-original-obligations.md
+- content/english/documents/family_law/BFTP/but-for-the-plan-the-single-dad-and-the-college-student.md
+- content/english/documents/immigration/BFTP/but-for-the-plan-performance-bond.md
+- content/english/documents/litigation/ART/the-duty-to-settle.md
+- content/english/documents/litigation/BFTP/but-for-the-plan-debts-saved-by-the-limitation-act.md
+- content/english/documents/motor_vehicle/BFTP/but-for-the-plan-highway-traffic-act-offence-mistaken-identity.md
+- content/english/documents/wills_estates/BFTP/check-property-ownership-documentation-now.md
