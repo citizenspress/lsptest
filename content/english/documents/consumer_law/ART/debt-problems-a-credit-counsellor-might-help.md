@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: debt-problems
-summary: ""
+summary: ''
 title: Debt Problems? A Credit Counsellor Might Help
 toc: false
 translationKey: debt-problems
+_template: template1
 ---
+
 #### Credit counsellors assist you to:
 
 * **develop a budget**

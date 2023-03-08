@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-identity
-summary: ""
+summary: ''
 title: But for The Plan (Highway Traffic Act Offence - Mistaken Identity)
 toc: false
 translationKey: BFTP-identity
+_template: template1
 ---
+
 Our client, (Mrs. Mary, we’ll call her), at 81 years young, was the only licensed driver in her rural home, and a very capable one.
 
 Early one morning she was awakened by a call from a blocked phone number. The male caller sternly asked her name, without first identifying himself, and then asked if she was the owner of a red automobile with a licence plate number which he quickly stated. When Mrs. Mary asked for the caller’s identity, he said he was with the local police, and was investigating a complaint made by a school bus driver who had notified them that a red car driven by a 30 to 50‐year‐old female wearing glasses “looked right at me and proceeded to beat the lights ahead of the kids offloading.” He said that they had a partial license plate and believed that she was the driver.

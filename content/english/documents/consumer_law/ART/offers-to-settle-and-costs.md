@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: settle-costs
-summary: ""
+summary: ''
 title: Offers to Settle and Costs
 toc: false
 translationKey: settle-costs
+_template: template1
 ---
+
 You may shorten an expensive court case, and maybe avoid a trial completely, by making a timely and reasonable **Offer to Settle.** It may also help you to recover some of your own lawyer’s fees (called **“costs”**) from the opposing party, or protect you from their claim for a costs order against you.
 
 ##### “Costs” Considerations

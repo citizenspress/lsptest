@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-renovation
-summary: ""
+summary: ''
 title: But for The Plan (Renovation Issues and Contractors Who Walk Away)
 toc: false
 translationKey: BFTP-renovation
+_template: template1
 ---
+
 Markus and Juanita (not their real names), hired a contractor to substantially renovate their cottage. Once the work started, and the walls were opened, the contractor sought input from a structural engineer regarding the safety of the old framing ‐ a matter that, according to the contractor, was unforeseen when the original contract was signed.
 
 What followed is a very typical scenario. The contractor walked off the job over a disagreement as to how much of the additional work was unforeseen, how much it would cost and who should pay for it.

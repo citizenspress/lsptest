@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-roofing
-summary: ""
+summary: ''
 title: But for The Plan (A Bad Roofing Job)
 toc: false
 translationKey: BFTP-roofing
+_template: template1
 ---
+
 Sometimes, what looks complicated becomes relatively simple, if you can get a lawyer to handle it in a direct and authoritative manner. Thomas Tomei (not his real name), had exactly that kind of problem.
 
 He had hired Sears Canada to re-shingle the roof at his home. Several years later certain portions of the re-shingled roof began to leak. Thomas had the roof inspected. The report stated that the shingles were inferior and had been installed improperly.

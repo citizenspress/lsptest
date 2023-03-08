@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: ART-pension
-summary: ""
+summary: ''
 title: 'Pension Division: The New Reality'
 toc: false
 translationKey: ART-pension
+_template: template1
 ---
+
 ### HISTORICAL BACKGROUND
 
 The 1986 Family Law Act created a system of property division which continued largely unchanged until the end of 2011, and remains so today, with the exception of how pensions are treated. Under the Act, pensions are specifically defined as property and required to be included in an individual’s net family property (NFP). In the years since 1986, lawyers practising in family law had struggled with the complexities of dealing with pensions. In part, this was because it was very difficult for lawyers and clients alike to accurately assess the value of an asset which could not be converted to cash and which was not to be received until some unknown point in the future and for an undetermined period of time.

@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: ART-limited
-summary: ""
+summary: ''
 title: Limited Retainer Agreements
 toc: false
 translationKey: ART-limited
+_template: template1
 ---
+
 #### Limited Retainer Agreements - “Unbundled Services”
 
 In an effort to lessen the cost of legal services, some lawyers and clients are entering into Limited Retainer Agreements that provide representation for only a part of the case. This is sometimes referred to as “Unbundled Services”.

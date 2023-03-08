@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-clearing
-summary: ""
+summary: ''
 title: But for The Plan (Clearing Up Pension and Bankruptcy Issues)
 toc: false
 translationKey: BFTP-clearing
+_template: template1
 ---
+
 Lilly (not her real name) had separated from her former spouse many years ago. At that time she hired a private lawyer, outside of the Plan, to help her obtain a share of her former spouse’s pension. Unfortunately, that lawyer suffered from an illness, and was only able to complete a portion of the file. She told Lilly that she had not yet done what was necessary to obtain a share of the former spouse’s pension, and said that she could not help her anymore.
 
 Almost ready to give up, Lilly decided to contact Paul Vayda at our Oakville office. When Paul read through the file it became clear that it was now going to be more difficult for Lilly to get her share of her former spouse’s pension. There were a number of potential road blocks.

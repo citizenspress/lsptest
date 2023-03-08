@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-dad
-summary: ""
+summary: ''
 title: But for The Plan (Child Support for Dad)
 toc: false
 translationKey: BFTP-dad
+_template: template1
 ---
+
 For two years following separation, our client, John, paid child support for his two children, Pam and Peter who were living with their mother, Betty (not their real names).
 
 After two years, when Pam came to reside with John, his child support payments decreased, because of Betty’s responsibility to contribute to the cost of Pam’s support.

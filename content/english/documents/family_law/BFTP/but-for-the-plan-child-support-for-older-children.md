@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-older
-summary: ""
+summary: ''
 title: But for The Plan (Child Support for Older Children)
 toc: false
 translationKey: BFTP-older
+_template: template1
 ---
+
 Our client, a single Mom, had been receiving inadequate child support for over 10 years. When her two sons were at the point of going to university she finally decided to pursue their father for missed payments and for an increase in the monthly amount.
 
 The father refused to increase child support payments. He claimed that neither son needed support because they both had part-time jobs (earning less than $6,000.00 annually). He also claimed that one child was no longer eligible for support because he left school on a couple of occasions due to his struggle with depression - a depression significantly worsened by the father involving the sons in his campaign of resistance.

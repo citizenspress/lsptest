@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-bank-discharge
-summary: ""
+summary: ''
 title: 'But for The Plan (Bankruptcy: Changing the Terms of a Conditional Discharge)'
 toc: false
 translationKey: BFTP-bank-discharge
+_template: template1
 ---
+
 Our client, Giorgio (not his real name), declared bankruptcy. His discharge order was conditional upon the payment of $16,500.00. That is, he had to pay $16,500.00 before he would be granted the “absolute order of discharge” that would erase most of his debts (e.g., family law support payments are not erased).
 
 But Giorgio’s personal circumstances changed significantly. His spouse became ill, which dramatically reduced their income, and the expenses of one of his children from a previous relationship, for education and support costs, increased by $15,000.00 a year.

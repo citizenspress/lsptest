@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-life
-summary: ""
+summary: ''
 title: But for The Plan (Life Insurance Claim)
 toc: false
 translationKey: BFTP-life
+_template: template1
 ---
+
 Senora and Senor Torres (not their real names) came to Canada as refugees, when they fled their troubled country of El Salvador. This hardworking couple never learned English, but they managed to raise a family and put them through school.
 
 Senora Torres suffered from high blood pressure and heart problems, for which she was treated over the years. Four years ago, she was approached by a somewhat unscrupulous life insurance agent, who was also from the Spanish speaking community of Toronto. This agent had her fill out an application for life insurance, and since she neither spoke nor read English, he filled it in and merely had her sign it. When her daughter Beatriz read it, she immediately identified some statements which were not true. For example, Senora Torres stated that she did not suffer from any illness, and had not seen a doctor for an health issues. She also stated that she read and spoke English. Beatriz was very concerned about this, and so with her mother present, she phoned the insurance agent and told him about the errors. He assured them that these were unimportant matters, and that the application was fine. The policy was issued, and the beneficiaries were Senor Torres and their daughter Beatriz.

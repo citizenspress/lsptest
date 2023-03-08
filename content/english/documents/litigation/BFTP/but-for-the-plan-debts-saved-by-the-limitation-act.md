@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-debts
-summary: ""
+summary: ''
 title: 'But for The Plan (Debts: Saved by the Limitation Act)'
 toc: false
 translationKey: BFTP-debts
+_template: template1
 ---
+
 Unfortunately, Elizabeth (not her real name) had been told by her previous employer to sign a contract, in her personal name, for services to be provided by a third party to the company where she worked.
 
 When Elizabeth was first contacted by a collection agency concerning an alleged debt in her name, there was $7,000.00 owing and the owners of the company were nowhere to be found.

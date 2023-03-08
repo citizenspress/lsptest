@@ -1,13 +1,16 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-separation
-summary: ""
-title: But for The Plan (Separation Agreements - Subsequent Events May Affect the
+summary: ''
+title: >-
+  But for The Plan (Separation Agreements - Subsequent Events May Affect the
   Original Obligations)
 toc: false
 translationKey: BFTP-separation
+_template: template1
 ---
+
 Mr. X. entered into a Separation Agreement in 1988. It stipulated that he was to pay his spouse a share of his employment pension when he retired ‐ a “when & if” pension division. He retired 21 years after the agreement was signed, and for various reasons he did not pay his former spouse her share.
 
 Six years after he retired, his former spouse started asking for her share of his pension. The amount owing was approximately $53,000.00. On top of that, there was a risk that Mr. X’s future retirement income would be reduced by about $730.00, monthly.

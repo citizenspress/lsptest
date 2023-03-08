@@ -1,13 +1,16 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-self
-summary: ""
-title: But for The Plan (Child Support - From Self-Represented Litigant to Believer
+summary: ''
+title: >-
+  But for The Plan (Child Support - From Self-Represented Litigant to Believer
   in the Plan)
 toc: false
 translationKey: BFTP-self
+_template: template1
 ---
+
 Anila (not her real name ) was a single mom with three daughters and a modest income. She was upbeat, determined and articulate. But even with those skills, she was no match for Ontario’s difficult family law system and its complex technicalities.
 
 Anila’s husband, Namesh (not his real name), was determined to thwart her efforts to make him pay child support. He denied responsibility for supporting the oldest child (who was not his, biologically, but whom he had treated as his own since she was three), and failed to disclose all of his income.

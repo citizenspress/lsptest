@@ -1,13 +1,16 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-trailer
-summary: ""
-title: But for The Plan (Trailer Parks in the United States - Sometimes a Canadian
+summary: ''
+title: >-
+  But for The Plan (Trailer Parks in the United States - Sometimes a Canadian
   Lawyer Can Help)
 toc: false
 translationKey: BFTP-trailer
+_template: template1
 ---
+
 Fred (not his real name), a retired octogenarian, used his trailer for about two weeks each year. He was a member of a trailer park resort in Lewiston, New York. Fred hadn’t used his trailer for about a year, and he wanted to cancel his membership. He called repeatedly to do that, but was told different things: first they said that he had to pay twice the usual annual dues to get out of the contract, and then they told him that he could NEVER get out of the contract because he was a lifetime member.
 
 A few months later, Fred got a letter from the trailer park saying that his dues were “seriously delinquent”, and threatening to turn his file over to a collection agency, affecting Fred's credit rating, if he did not pay the full amount within thirty days.

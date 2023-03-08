@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: ART-collaborative
-summary: ""
+summary: ''
 title: Collaborative Family Law
 toc: false
 translationKey: ART-collaborative
+_template: template1
 ---
+
 #### COLLABORATIVE FAMILY LAW - A New Way to Resolve Disputes
 
 The end of a marriage or relationship is frequently a tragic event. Unfortunately, all too often that tragic event is immediately worsened by the processes used to resolve the issues surrounding it. Two people, previously committed to a life-long relationship, become adversaries as they enter the battleground of separation and divorce.

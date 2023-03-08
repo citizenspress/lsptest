@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: ART-tips
-summary: ""
+summary: ''
 title: Tips for Keeping Your Family Lawyer’s Fees Down
 toc: false
 translationKey: ART-tips
+_template: template1
 ---
+
 A divorce or separation can be an emotional, painful and very expensive process. However, there are certain steps you can take that may keep your legal costs down. Consider the following:
 
  1. Lawyers are entitled to bill you for every voicemail sent or received, therefore it is best to speak to a law clerk to book a telephone appointment with the lawyer. If the question is non-legal in nature it may be more cost-effective to speak to the law clerk first to see if they can help you.

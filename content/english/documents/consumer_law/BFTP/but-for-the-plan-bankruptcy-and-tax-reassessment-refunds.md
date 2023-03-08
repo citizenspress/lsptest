@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-bank-refunds
-summary: ""
+summary: ''
 title: But for The Plan (Bankruptcy and Tax Reassessment Refunds)
 toc: false
 translationKey: BFTP-bank-refunds
+_template: template1
 ---
+
 George and Sarah (not their real names) declared bankruptcy in 2009, and obtained a discharge from their bankruptcy by the end of 2010.
 
 Around the time of the discharge, George found out that he could apply for a tax credit regarding expenses for their daughter, who has a disability. He then applied for an income tax reassessment that included years prior to 2009, and received a refund.

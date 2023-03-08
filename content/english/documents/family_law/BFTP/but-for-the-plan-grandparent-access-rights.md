@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-access
-summary: ""
+summary: ''
 title: But for The Plan (Grandparent Access Rights)
 toc: false
 translationKey: BFTP-access
+_template: template1
 ---
+
 Ethel (not her real name), a widow in her 70’s, is the surviving spouse of a CAW Legal Services Plan member. She came to our Oshawa office because of her two year old granddaughter, whom she had never seen.
 
 Ethel’s son was the biological father of the child, but he and the mother did not live together, and he did not have visitation rights (“access”) to the child. Ethel’s attempts to see her granddaughter had been at first ignored and then later refused by the mother, even with mutual friends attempting to facilitate contact.

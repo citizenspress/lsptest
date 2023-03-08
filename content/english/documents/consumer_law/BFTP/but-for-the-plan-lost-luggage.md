@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-luggage
-summary: ""
+summary: ''
 title: But for The Plan (Lost Luggage)
 toc: false
 translationKey: BFTP-luggage
+_template: template1
 ---
+
 Our client, a retiree, traveled to Europe with her daughter and her granddaughter for a 'once-in-a-lifetime' tour. They flew to Rome via Amsterdam but unfortunately, their luggage did not. The airline (not Air Canada) located most of the luggage within a day or two, but our clients did not receive it until two weeks later, at the airport, in time for their return trip home!
 
 The airline had treated them very poorly, making them check back repeatedly to inquire about the status of the luggage and what arrangements were being made to reunite them with their belongings. As a result, they missed out on a number of scheduled tour events, and had to spend time replacing clothing and other items. Although the airline reimbursed them for their receipted costs and purchases, our clients had been significantly inconvenienced and wanted compensation for loss of enjoyment of their dream vacation.

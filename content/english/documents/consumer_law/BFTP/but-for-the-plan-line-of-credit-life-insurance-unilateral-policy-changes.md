@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-line
-summary: ""
+summary: ''
 title: But for The Plan (Line of Credit Life Insurance - Unilateral Policy Changes)
 toc: false
 translationKey: BFTP-line
+_template: template1
 ---
+
 Do you ever wonder what it means when your bank or insurance company sends ... **THE LETTER** - the letter that **unilaterally** changes the terms of your policy?
 
 In 1995, our client, Bernice, and her late husband, Roger (not their real names) applied for and received a line of credit at a major Canadian bank. To protect the line of credit, they also took out a life insurance policy that bank was promoting. The policy, issued by a major Canadian insurance company, would pay the amount of the outstanding line of credit on the date of the death of either of them, to a maximum of $50,000.00. The couple paid the premiums monthly.

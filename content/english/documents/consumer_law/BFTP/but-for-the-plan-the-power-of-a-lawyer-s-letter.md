@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-power
-summary: ""
+summary: ''
 title: But for The Plan (The Power of a Lawyer ’s Letter)
 toc: false
 translationKey: BFTP-power
+_template: template1
 ---
+
 Mark (not his real name) purchased a brand new, rather expensive car, and immediately began to have problems with it. He brought the car into the dealer repeatedly during the warranty period, but they could not determine the problem.
 
 After several years passed, and after the warranty had expired, Mark had more trouble. He brought the car back to the dealer, again, and was told that the engine had seized, that it would cost up to $30,000 to fix the engine, and up to $60,000 to replace it. The dealer’s warranty representative offered to rebuild the engine for “50% off”.

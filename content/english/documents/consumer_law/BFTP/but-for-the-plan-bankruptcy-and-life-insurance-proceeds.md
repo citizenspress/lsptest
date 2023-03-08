@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-bank-proceeds
-summary: ""
+summary: ''
 title: But for The Plan (Bankruptcy and Life Insurance Proceeds)
 toc: false
 translationKey: BTP-bank-proceeds
+_template: template1
 ---
+
 Our client Mary and her husband George (not their real names) had extensive debts arising from George’s illness and Mary’s inability to work.
 
 They declared bankruptcy. Before the bankruptcy was concluded, George passed away.

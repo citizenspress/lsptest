@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-bond
-summary: ""
+summary: ''
 title: But for The Plan (Performance Bond)
 toc: false
 translationKey: BFTP-bond
+_template: template1
 ---
+
 On a sunny day in August of 2003, Mr. and Mrs. Nowitsky (not their real name), an elderly eastern European couple, received a phone call from the Immigration Office. A relative, whom they had never met, was seeking refugee status.
 
 The Nowitskys agreed to assist this nephew they had never met. They paid a $5,000.00 Cash Bond and also signed a $10,000.00 Performance Bond, which had numerous conditions. One of the conditions of the Performance Bond was that the nephew had to live with them. This lasted for about ten months. The nephew then went on his own way. From 2005 until the summer of 2008, they did not hear from their nephew. Nor did they hear from the Immigration Office.

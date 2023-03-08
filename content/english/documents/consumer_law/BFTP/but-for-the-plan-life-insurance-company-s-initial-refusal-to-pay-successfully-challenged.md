@@ -1,13 +1,16 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-life
-summary: ""
-title: But for The Plan (Life Insurance Company ’s Initial Refusal to Pay - Successfully
-  Challenged)
+summary: ''
+title: >-
+  But for The Plan (Life Insurance Company ’s Initial Refusal to Pay -
+  Successfully Challenged)
 toc: false
 translationKey: BFTP-life
+_template: template1
 ---
+
 Ms. Carpenter (not her real name) came into our office visibly upset. Not only had her husband suddenly passed away, his insurer refused to pay the death benefit on two insurance policies, totaling approximately $180,000.00. The policies were purchased to pay off a mortgage and a line of credit.
 
 The insurer alleged that the deceased lied about a pre‐existing health issue on his application, and relied on the Medical Certificate of Death, which was prepared by the attending physician. The certificate cited “natural causes” as the cause of death. It stated further, however, that alcoholism of 20 plus years” and “tobacco abuse disorder 20 plus years” were antecedent causes contributing to his death.

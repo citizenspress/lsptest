@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-single
-summary: ""
+summary: ''
 title: But for The Plan (The Single Dad and the College Student)
 toc: false
 translationKey: BFTP-single
+_template: template1
 ---
+
 When our client, Sam, separated from his wife, Ruby, he had custody of their only child, Ernest (not their real names), who was 12 years old.
 
 The parents signed a separation agreement which required that Ruby pay child support in a low monthly amount, consistent with her income at that time. The agreement also required her to provide proof of her future income each year, but she did not.

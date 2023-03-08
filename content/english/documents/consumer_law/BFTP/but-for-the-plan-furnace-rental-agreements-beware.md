@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-furnace
-summary: ""
+summary: ''
 title: But for The Plan (Furnace Rental Agreements - Beware)
 toc: false
 translationKey: BFTP-furnace
+_template: template1
 ---
+
 ## They Can Affect the Sale of Your Home
 
 In 2017, Gianni and Loretta (not their real names), entered into an ill‐advised long term contract to rent a furnace and an air conditioner from a not very reputable company. They did not obtain legal advice before signing the contract. They are not alone! There is a predatory industry out there, in which people show up at the homes of unsuspecting individuals and talk them into contracts for often unnecessary furnace replacements at exorbitant prices.

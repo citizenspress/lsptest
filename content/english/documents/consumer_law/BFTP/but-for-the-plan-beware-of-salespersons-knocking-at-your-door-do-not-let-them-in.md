@@ -1,13 +1,16 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-beware
-summary: ""
-title: But For The Plan (Beware of Salespersons Knocking at your Door- DO NOT LET
+summary: ''
+title: >-
+  But For The Plan (Beware of Salespersons Knocking at your Door- DO NOT LET
   THEM IN)
 toc: false
 translationKey: BFTP-beware
+_template: template1
 ---
+
 Thelma, a widow, heard a knock on her door, and when she answered it, a smiling man said that he was from the gas company and that he could sign her up for a rebate on her new furnace. It sounded good! So, Thelma signed a bunch of papers that the smiling man put in front of her ‐ two contracts! He then installed some filters on her furnace, which he said that she needed.
 
 The next day, another man came. He took out her old water heater and installed a new, tankless one. The new water heater never gave her hot enough water, and she began seeing strange charges on her bank statement. She called the number on the paper that she was given, and left numerous voicemail messages that were never returned. Finally, someone called her back and told her that the units were saving her a lot of money on her gas bills!

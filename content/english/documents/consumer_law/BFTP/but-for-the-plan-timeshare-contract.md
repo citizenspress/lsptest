@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-timeshare
-summary: ""
+summary: ''
 title: But for The Plan (Timeshare Contract)
 toc: false
 translationKey: BFTP-timeshare
+_template: template1
 ---
+
 Bob and Sandy (not their real names) won an all-expenses-paid weekend at a beautiful Ontario resort. All they had to do was attend a “seminar” about a Timeshare. Bob and Sandy attended the “seminar” and, before the weekend was over, paid $13,769.83, by credit card, to purchase a two-bedroom Timeshare at the resort.
 
 Alas, Bob and Sandy quickly discovered that the information received from the Timeshare salespeople did not match the fine print contained in the purchase documents. So, thirty (30) days after it was signed, Bob and Sandy sent an email, cancelling the contract. But the Timeshare company refused to accept the cancellation, stating that the Ontario Consumer Protection Act only allowed cancellations within ten (10) days from the date the contract was signed.

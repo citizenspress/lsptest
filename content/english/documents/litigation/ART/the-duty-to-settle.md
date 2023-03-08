@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: ART-duty
-summary: ""
+summary: ''
 title: The Duty to Settle
 toc: false
 translationKey: ART-duty
+_template: template1
 ---
+
 Plan members have, on occasion, contacted us with concerns about their lawyer urging them to accept an offer to settle that they think is unfair. The member feels that the lawyer is not acting in their best interests, or would be abandoning them at a crucial time. While most lawyers will continue to act for you even if you do not accept their advice, if a lawyer believes that you are insisting on a course of action that is entirely unreasonable, they may, in certain circumstances, choose to end the relationship. Some clients are under the mistaken perception that a lawyer is obligated to represent them “no matter what”.
 
 It is important to be aware that the Rules of Professional Conduct* that govern lawyers, impose certain ethical obligations to encourage reasonable settlement. Why would they encourage you to settle if you, the paying client, do not want to? If the lawyer believes, based on their knowledge and experience, that continuing legal proceedings will not be of benefit to you, they are required to let you know so that you are spared the wasted time and expense involved. In addition, if a reasonable offer is presented to you and you do not accept it, you risk having costs awarded against you if you proceed. This means that you may have to pay some or all of the costs of the other side in addition to your own.

@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-collection
-summary: ""
+summary: ''
 title: But for The Plan (Collection Agency Letters-Don ’t Take Them at Face Value)
 toc: false
 translationKey: BFTP-collection
+_template: template1
 ---
+
 In 2009, Jane (not her real name) took out a mortgage to consolidate all of her debts. Nine years later, she received a letter from a collection agency stating that she still owed an unpaid Zellers credit card debt of $4,500 which, with interest, now had grown to over $17,000. To make matters worse, because the debt was still registered against Jane's home, the collection agent was threatening to sell her house.
 
 A very anxious Jane, thinking that all of her debts were paid off a long time ago, during the refinancing, made an appointment to see Jonathon Dick at our St. Catharines office.

@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-usa
-summary: ""
+summary: ''
 title: But for The Plan (USA Consumer Problem)
 toc: false
 translationKey: BFTP-usa
+_template: template1
 ---
+
 Mike had purchased his dream car, a 2010 Mustang GT. His plan was to ship it to Las Vegas, where a major car customizing company (“ Company”) was going to convert it into one of its “signature” Mustangs. Arrangements were made through a local Canadian distributor. The contract was signed and the vehicle was on its way by truck, to be returned to Mike a few weeks later.
 
 But the customization was taking longer than it should. Then Mike received the bomb-shell news: nothing had been done to his vehicle, it would be returned to him in its original state.

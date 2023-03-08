@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: ART-separating
-summary: ""
+summary: ''
 title: 'Separating From Your Spouse: Matters to Consider'
 toc: false
 translationKey: ART-separating
+_template: template1
 ---
+
 _The following matters frequently arise. It is not an exhaustive list. To protect your interests, you should discuss your specific circumstances and needs with your lawyer._
 
 **NEW WILL and NEW POWERS OF ATTORNEY**  

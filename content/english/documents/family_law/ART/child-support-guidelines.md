@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: ART-child
-summary: ""
+summary: ''
 title: Child Support Guidelines
 toc: false
 translationKey: ART-child
+_template: template1
 ---
+
 #### NOTICE TO MEMBERS WHO PAY OR RECEIVE CHILD SUPPORT
 
 The Child Support Guidelines were amended, **effective January 1, 2012**, to change the table amounts of support that are payable at different levels of incomes. These changes were made to reflect the fact that rates of income tax have changed since 2006, when the Guidelines were last revised.

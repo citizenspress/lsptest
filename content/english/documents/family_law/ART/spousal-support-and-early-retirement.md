@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: ART-spousal
-summary: ""
+summary: ''
 title: Spousal Support and Early Retirement
 toc: false
 translationKey: ART-spousal
+_template: template1
 ---
+
 The Unifor Legal Services Plan turns 30 in 2015, and many of our clients are now retired or anticipating retirement. If you fit into this picture, you may be asking,
 
 * **“How can I possibly meet my existing support obligations to my former spouse when my income drops at retirement?”**

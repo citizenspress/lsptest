@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-telephone
-summary: ""
+summary: ''
 title: But for The Plan - (Telephone Sales)
 toc: false
 translationKey: BFTP-telephone
+_template: template1
 ---
+
 ## (Telephone Sales - Be Careful)
 
 Mr. and Mrs. Shuster (not their real names) met with Jonathon Dick at our St. Catharines office. They told him that they had been ripped off as a result of a series of transactions involving a seller of holistic products, which they purchased over the phone.

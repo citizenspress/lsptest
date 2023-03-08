@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-pool
-summary: ""
+summary: ''
 title: But for The Plan (Matrimonial Swimming Pool)
 toc: false
 translationKey: BFTP-pool
+_template: template1
 ---
+
 John and Mary (not their real names) were married for five years before they separated. In the fourth year of their marriage, with $22,000 of financial help from Mary’s parents, they installed a swimming pool in their back yard.
 
 Two years later, in the middle of what had become a difficult and emotional divorce, Mary’s parents sued John for $9,600.00, alleging that the money they provided for the pool was a loan, and that Mary had already partially paid them back.

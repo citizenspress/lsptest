@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-rogue
-summary: ""
+summary: ''
 title: But for The Plan (The Rogue Financial Advisor)
 toc: false
 translationKey: BFTP-rogue
+_template: template1
 ---
+
 Mr. B (not his real name), an actively employed union member nearing his 30 years of service for retirement eligibility, considered himself to be a prudent and knowledgeable investor. For many years he faithfully made maximum contributions to his own RRSPs as well as to spousal RRSPs, with a well known, Canadian-based investment company that boasts itself to be one of Canada’s largest and most respected.
 
 Unfortunately, even one of Canada's largest and most respected companies is not immune from having one of its employees turn rogue. The B’s long-time financial advisor was transferred to a different office, and they were assigned a new financial advisor - slick, aggressive and full of ideas to dramatically increase their returns after the difficult economic times in 2008 and 2009.

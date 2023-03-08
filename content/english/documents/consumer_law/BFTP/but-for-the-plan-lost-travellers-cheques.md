@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-lost
-summary: ""
+summary: ''
 title: But for The Plan (Lost Travellers Cheques)
 toc: false
 translationKey: BTFP-lost
+_template: template1
 ---
+
 Mr. Green (not his real name) prefers to use Travellers Cheques while vacationing abroad. In preparation for a trip to the Philippines, he attended his home branch of a local credit union where he purchased $3,000.00 USD in Travellers Cheques.
 
 After visiting the credit union, he went straight home. The same day he noticed that the Travellers Cheques were missing. He retraced his steps, which included digging around in more than one snowbank, to no avail. He then immediately contacted his branch and the issuing company, to report the loss.

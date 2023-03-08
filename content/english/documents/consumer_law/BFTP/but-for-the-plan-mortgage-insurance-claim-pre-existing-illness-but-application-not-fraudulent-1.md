@@ -1,13 +1,16 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-pre-existing
-summary: ""
-title: 'But for The Plan (Mortgage Insurance Claim: Pre-Existing Illness, but Application
-  Not Fraudulent)'
+summary: ''
+title: >-
+  But for The Plan (Mortgage Insurance Claim: Pre-Existing Illness, but
+  Application Not Fraudulent)
 toc: false
 translationKey: BFTP-pre-existing
+_template: template1
 ---
+
 When Mr. and Ms. Davidson (not their real names) took out a mortgage with one of the major Canadian banks, back in 1997, they also bought mortgage insurance, with a coverage limit of $100,000. Mr. Davidson’s health was good at that time.
 
 In 2006, when they renewed the mortgage and increased it, with the same bank, he told the loans officer that he had been suffering recently, from an illness, and that it had been in remission for awhile. The loans officer told him to wait for six months, and if it was still in remission, he could apply for insurance then. Mr. Davidson accepted this advice and waited for six months, then applied for the mortgage insurance, and was accepted. The insurance limit was now $170,000.

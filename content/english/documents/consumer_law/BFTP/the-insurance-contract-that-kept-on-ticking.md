@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-ticking
-summary: ""
+summary: ''
 title: The Insurance Contract That “Kept On Ticking”
 toc: false
 translationKey: BFTP-ticking
+_template: template1
 ---
+
 Shortly after M’s husband passed away, she changed car insurance companies.
 
 About twelve (12) years later, M was shocked to discover that the previous insurance company was still taking monthly payments directly from her bank account.

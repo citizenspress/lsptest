@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: ont-cp-act
-summary: ""
+summary: ''
 title: Ontario's Consumer Protection Act
 toc: false
 translationKey: ont-cp-act
+_template: template1
 ---
+
 ### CONSUMERS: BE AWARE !
 
 Ontario’s new Consumer Protection Act, which came into effect on July 30, 2005, gives consumers better protection than in the past. All Unifor members should be aware of the following:

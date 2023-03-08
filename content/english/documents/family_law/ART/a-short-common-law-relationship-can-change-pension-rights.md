@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: ART-short
-summary: ""
+summary: ''
 title: A Short Common Law Relationship Can Change Pension Rights
 toc: false
 translationKey: ART-short
+_template: template1
 ---
+
 A defined benefit pension is a very valuable asset for many Detroit 3 auto workers. The pension interest grows over the course of employment and, by the time a worker has reached “30 and Out” can be worth several hundred thousand dollars, so control over the ultimate beneficiary is a major financial issue.
 
 **Do you know who will get your pension benefits when you die?** That depends, in part, on whether you die before or after you are receiving your pension.

@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-ownership
-summary: ""
+summary: ''
 title: Check Property Ownership Documentation NOW !
 toc: false
 translationKey: BFTP-ownership
+_template: template1
 ---
+
 > **Don’t Leave a Mess for Your Estate Trustee**
 
 Mr. and Mrs. K bought a house together over 48 years ago, when they were engaged. They lived a long and happy life together in the property.

@@ -1,12 +1,14 @@
 ---
-date: ""
-description: ""
+date: ''
+description: ''
 slug: BFTP-settlement
-summary: ""
+summary: ''
 title: But for The Plan (Trust Your Lawyer Through the settlement process)
 toc: false
 translationKey: BRTP-settlement
+_template: template1
 ---
+
 M. was a hard worker who considered himself a general handyman. Whenever he could, he would complete his own repairs and make sure his home equipment was running smoothly. But when it came time to replace an old water heater and furnace, M. realized that no amount of duct tape could do the job, so he bought new equipment through a large, local supplier.
 
 M. made his monthly payments on time, via automatic bank transfers, and saw out the term of the purchase, but after a few years, when M. and his spouse noticed that monthly amounts were still being processed, they stopped the transfers and called our Oakville office for help.
